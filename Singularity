@@ -1,5 +1,9 @@
 Bootstrap: docker
 From: sachet/polysolver:v3
+<<<<<<< HEAD
+=======
+
+>>>>>>> e461a82851446fb089544ca3a8f1be6d742ffb2b
     
 %post
 

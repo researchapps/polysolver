@@ -1,7 +1,5 @@
 # Singularity Polysolver
 
-This is the official build repository for polysolver for Singularity Hub.
-
 This will produce a Singularity image (suitable for running in a cluster environment) using [https://hub.docker.com/r/sachet/polysolver/](https://hub.docker.com/r/sachet/polysolver/). We do this by way of a bootstrap file for the Docker image.
 
 
