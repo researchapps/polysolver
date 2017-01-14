@@ -1,10 +1,6 @@
 Bootstrap: docker
 From: sachet/polysolver:v3
-<<<<<<< HEAD
-=======
-
->>>>>>> e461a82851446fb089544ca3a8f1be6d742ffb2b
-    
+ 
 %post
 
      mkdir /data/
@@ -20,4 +16,3 @@ From: sachet/polysolver:v3
      export MUTECT_DIR=$PSHOME
      export STRELKA_DIR=$PSHOME
      chmod 777 -R /usr/local/libexec
-
