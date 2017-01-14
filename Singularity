@@ -1,6 +1,5 @@
 Bootstrap: docker
 From: sachet/polysolver:v3
-
     
 %post
 
