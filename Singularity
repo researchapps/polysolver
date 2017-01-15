@@ -1,5 +1,5 @@
 BootStrap:docker
-From:sachet/polysolver:v3
+From: sachet/polysolver:v3
  
 %post
 
